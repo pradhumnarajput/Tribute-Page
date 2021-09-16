@@ -18,7 +18,9 @@ body{
     margin-top: 0%;
 }
 
-img {
+#image {
+    display: block;
+    margin: auto;
     max-width: 50%;
     max-height: auto;
     padding-top: 20px;
